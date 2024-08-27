@@ -1,4 +1,8 @@
-Callable Statement 
+------Callable Statement ---- 
+
+--MYSQL Stored Procedure---
+
+
 mysql> delimiter //
 mysql> create procedure avg_salary()
       ->BEGIN
